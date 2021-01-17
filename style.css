@@ -80,8 +80,8 @@ header::before {
     font-size: 20px;
     letter-spacing: 2px;
     display: block;
-    margin-left: auto;
-    margin-right: auto;
+    top: 0px;
+    left: 0px;
     border-radius: 40px;
 }
 
